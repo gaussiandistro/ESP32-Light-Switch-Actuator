@@ -1,0 +1,7 @@
+Item,Quantity,Component,Model / Specification,Function,Purchase Link,Notes
+1,1,Microcontroller,ESP32-C3 Super Mini,Control and deep sleep,,Confirm specific board variant and power wiring
+2,1,Servo motor,SG90 micro servo,Physically toggle wall switch,,Confirm servo voltage and available current
+3,1,Illuminated rocker switch,mxuteuk MXU1-5-101NR SPST rocker,Low-voltage user input,https://www.amazon.com/dp/B07QTPH8QZ,AC-rated product; do not connect mains to ESP32
+4,1,Rechargeable battery,EEMB LP603449 3.7V 1100mAh LiPo,Portable power,https://www.amazon.com/dp/B08FD39Y5R,Verify connector polarity and battery protection
+5,As needed,Hookup wires,Appropriate gauge and length,Electrical connections,,Wire count and connectors depend on assembly
+6,As needed,3D-printed components,Project-specific STL parts,Mounting and servo linkage,,Upload actual STLs under hardware/stl
