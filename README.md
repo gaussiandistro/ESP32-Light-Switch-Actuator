@@ -26,6 +26,7 @@ This project uses a small servo motor and 3D-printed parts to operate a wall swi
 
 A also available in [`hardware/BOM.csv`](hardware/BOM.csv).
 
+OnShape CAD Design available [here](https://cad.onshape.com/documents/a65a3372ac1a8a6ea4c2d8f1/w/55243c3d919bd193eaca02d5/e/07d58b514f8302c012b788aa)
 
 The servo mount in this project is **based on a design by [carjo3000 on Thingiverse](https://www.thingiverse.com/thing:1156995)**. The original design is credited to carjo3000 and is provided under a **Creative Commons Attribution-NonCommercial (CC BY-NC)** license. The mount used here has been adapted for this project.
 
